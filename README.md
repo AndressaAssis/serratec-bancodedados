@@ -34,3 +34,6 @@ _Este projeto foi desenvolvido pelo Grupo 6 da Turma 22 (Nova Friburgo/Teresópo
 * Milton Rodrigues
 * Renata Rodrigues
 * Samuel Oliveira
+
+### Licença 🔆
+> Este projeto é de uso livre para fins acadêmicos e pessoais.
